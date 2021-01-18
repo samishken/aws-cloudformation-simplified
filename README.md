@@ -53,6 +53,5 @@ In the second part of the course, you will implement the below listed three conc
 
 
 During the learning process, you will write 45+ cloud formation templates written in YAML. 
-
-This course also provides 45+ pre-built templates which you can use them during the learning process.  In addition this course comes with 190 slides in a PDF document.
+ 
 
