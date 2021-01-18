@@ -1,4 +1,4 @@
-# AWS CloudFormation Udemy Course
+# AWS CloudFormation  
 
 
 # Youtube Playlist
